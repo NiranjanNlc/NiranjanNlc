@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
 <h3 align="center">Android Developer engaged in learning and earning .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjannlc&label=Profile%20views&color=0e75b6&style=flat" alt="niranjannlc" /> </p> -->
- ## ⚡ Recent GitHub Activity
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjannlc&label=Profile%20views&color=0e75b6&style=flat" alt="niranjannlc" /> </p> 
+<!--  ## ⚡ Recent GitHub Activity -->
  <br/>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Niranjan  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&custom_title=Niranjan%20NLC%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" /></a>
  <br/>
