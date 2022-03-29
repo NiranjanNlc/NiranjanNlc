@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
 <h3 align="center">Android Developer engaged in learning and earning .</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niranjannlc&label=Profile%20views&color=0e75b6&style=flat" alt="niranjannlc" /> </p> 
 <!--  ## ⚡ Recent GitHub Activity -->
  <br/>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Niranjan  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&custom_title=Niranjan%20NLC%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" /></a>
@@ -11,15 +10,15 @@
 
  <p align="left"> <a href="https://twitter.com/niranjannlc" target="blank"><img src="https://img.shields.io/twitter/follow/niranjannlc?logo=twitter&style=for-the-badge" alt="niranjannlc" /></a> </p> 
 
-- 🌱 I’m currently learning **Test Driven Development and Ui desighn using Figma**
+- 🌱 I’m currently learning **Test Driven Development and UI design using Figma**
 
 - 📝 I regularly write articles on [niranjannlc.blogspot.com](niranjannlc.blogspot.com)
 
-- 💬 Ask me about **Android , Kotlin , Java and Spring Boot**
+- 💬 Ask me about **Android, Kotlin, Java, and Spring Boot**
 
-- 📫 How to reach me **niranjannlc10@gmail.com**
+- 📫 How to reach me: **niranjannlc10@gmail.com**
 
-- ⚡ Fun fact **I am too much introvert in reality , which you feel exactly opposite in reel life.**
+- ⚡ Fun fact: **I am too much introvert in reality, which you feel exactly opposite in real life.**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +26,7 @@
 <a href="https://stackoverflow.com/users/8262293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8262293" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 <p align="left"> 
  
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
