@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
-<h3 align="center">Android Developer engaged in learning and earning .</h3>
+<h3 align="center">Android App Developer</h3>
 
 <!--  ## ⚡ Recent GitHub Activity -->
  <br/>
