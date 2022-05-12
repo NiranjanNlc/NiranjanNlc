@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
 <h3 align="center">I build only native  android app</h3>
 
-<!--  ## ⚡ Recent GitHub Activity -->
  <br/>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Niranjan  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&custom_title=Niranjan%20NLC%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" /></a>
  <br/>
-<!-- 
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjannlc" alt="niranjannlc" /></a> </p>
- -->
+
 <!--  <p align="left"> <a href="https://twitter.com/niranjannlc" target="blank"><img src="https://img.shields.io/twitter/follow/niranjannlc?logo=twitter&style=for-the-badge" alt="niranjannlc" /></a> </p>  -->
 
 - 🌱 I’m currently learning **Test Driven Development and UI design using Figma**
