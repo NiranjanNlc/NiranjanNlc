@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Test Driven Development and UI design using Figma**
 
-- 📝 I regularly write articles on [niranjannlc.blogspot.com](niranjannlc.blogspot.com)
+- 📝 I regularly write articles on [dev.to/niranjannlc](https://dev.to/niranjannlc)
 
 - 💬 Ask me about **Android, Kotlin, Java, and Spring Boot**
 
