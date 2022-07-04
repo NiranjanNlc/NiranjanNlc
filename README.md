@@ -8,7 +8,8 @@
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjannlc" alt="niranjannlc" /></a> </p> -->
 
 <!--  <p align="left"> <a href="https://twitter.com/niranjannlc" target="blank"><img src="https://img.shields.io/twitter/follow/niranjannlc?logo=twitter&style=for-the-badge" alt="niranjannlc" /></a> </p>  -->
-
+<h3 align="left">About me </h3>
+<h4>
 - 🌱 I’m currently learning **Test Driven Development and UI design using Figma**
 
 - 📝 I regularly write articles on [dev.to/niranjannlc](https://dev.to/niranjannlc)
@@ -18,7 +19,7 @@
 - 📫 How to reach me: **niranjannlc10@gmail.com**
 
 - ⚡ Fun fact: **I am too much introvert in reality, which you feel exactly opposite in real life.**
-
+</h4>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/niranjannlc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niranjannlc" height="30" width="40" /></a>
@@ -41,8 +42,8 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" /></p>
+<h3 align="left">Statistics </h3>
+<p><img align="left" width = "45%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" /> 
+ <img align="right" width = "45%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" /></p>
