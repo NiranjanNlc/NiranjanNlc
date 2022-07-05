@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
-<h3 align="center">I build only native  android app</h3>
+<h2 align="center">I build only native  android app</h3>
 
  <br/>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Niranjan  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&custom_title=Niranjan%20NLC%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" /></a>
@@ -8,8 +8,8 @@
 <!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjannlc" alt="niranjannlc" /></a> </p> -->
 
 <!--  <p align="left"> <a href="https://twitter.com/niranjannlc" target="blank"><img src="https://img.shields.io/twitter/follow/niranjannlc?logo=twitter&style=for-the-badge" alt="niranjannlc" /></a> </p>  -->
-<h3 align="left">About me </h3>
-<h4>
+<h1 align="left">About me </h1>
+<h3>
 - 🌱 I’m currently learning **Test Driven Development and UI design using Figma**
 
 - 📝 I regularly write articles on [dev.to/niranjannlc](https://dev.to/niranjannlc)
@@ -19,14 +19,14 @@
 - 📫 How to reach me: **niranjannlc10@gmail.com**
 
 - ⚡ Fun fact: **I am too much introvert in reality, which you feel exactly opposite in real life.**
-</h4>
+</h3>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/niranjannlc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niranjannlc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/8262293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="8262293" height="30" width="40" /></a>
 </p> -->
 
-<h3 align="left">Languages and Tools</h3>
+<h1 align="left">Languages and Tools</h1>
 <p align="left"> 
  
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
@@ -44,6 +44,6 @@
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" /></p> -->
 
-<h3 align="left">Statistics </h3>
-<p><img align="left" width = "45%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" /> 
- <img align="right" width = "45%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" /></p>
+<h1 align="left">Statistics </h1>
+<p><img align="left" width = "100%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" /> 
+ <img align="right" width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" /></p>
