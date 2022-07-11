@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
 <h2 align="center">I build only native  android app</h3>
-<!--
+
  <br/>
  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Niranjan  Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&custom_title=Niranjan%20NLC%20Contribution%20Graph&bg_color=000000&color=C5AB63&line=C1CBD8&point=FFFFFF&hide_border=true" />
  <br/>
- -->
-<!--  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjannlc" alt="niranjannlc" /></a> </p> -->
-
-<!--  <p align="left"> <a href="https://twitter.com/niranjannlc" target="blank"><img src="https://img.shields.io/twitter/follow/niranjannlc?logo=twitter&style=for-the-badge" alt="niranjannlc" /></a> </p>  -->
+ 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niranjannlc" alt="niranjannlc" /></a> </p> 
+ 
 <h1 align="left">About me </h1>
 <h3>
 - 🌱 I’m currently learning **Test Driven Development and UI design using Figma**
@@ -42,8 +41,9 @@
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  -->
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" /></p> -->
-
 <h1 align="left">Statistics </h1>
+
+ <p><img align="left" width = "100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" /></p> 
+
 <p><img align="left" width = "100%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" /> 
  <img align="right" width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" /></p>
