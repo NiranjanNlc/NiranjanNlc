@@ -18,3 +18,7 @@
 <p><img align="left" width = "100%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" /> 
  <img align="right" width = "100%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" /></p>
  
+## HacktoberFest Badge  
+[![@niranjannlc's Holopin board](https://holopin.me/niranjannlc)](https://holopin.io/@niranjannlc)
+
+ 
