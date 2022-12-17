@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
 <h2 align="center">I build only native  android app</h3>
   
-## Contribution Graph 📊
-<img src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&theme=chartreuse-dark" />
-<!-- <img  width = "100%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" /> -->
-<p float = "left" >
-<img  src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" />
+<!-- ## Contribution Graph 📊
+<img src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&theme=chartreuse-dark" /> -->
+ <p float = "left" >
+<img width="31%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" />
+  <img  width="31%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" />
+<img  width="31%" src="https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc" alt="niranjannlc" />
 </p>
 
 ## HacktoberFest Badge  
