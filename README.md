@@ -1,8 +1,5 @@
-<h1 align="center">Hi 👋, I'm Niranjan Lamichhane (NLC)</h1>
-<h2 align="center">I build only native  android app</h3>
-  
-<!-- ## Contribution Graph 📊
-<img src="https://activity-graph.herokuapp.com/graph?username=niranjannlc&theme=chartreuse-dark" /> -->
+<h1 align="center">Hi 👋, I'm Niranjan Lamichhane</h1>
+<h2 align="center">I build only native  android app</h3> 
  <p float = "left" >
 <img width="31%"  src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact" alt="niranjannlc" />
   <img  width="31%" src="https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&locale=en" alt="niranjanlc" />
