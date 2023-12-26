@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hi, I'm Niranjan Lamichhane</h1>
 <h3 align="center">Crafting Native Android Experiences 🚀</h3>
 
-| 📊 GitHub Activity | 📊 GitHub Stats | 📊 Languages Used | 🏆 GitHub Trophies | 📈 Contribution Graph |
-| --- | --- | --- | --- | --- |
-| ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&count_private=true&include_all_commits=true) | ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact) | ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=niranjannlc&theme=onedark) | ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=niranjannlc) |
+| 📊 GitHub Activity | 📊 GitHub Stats | 📊 Languages Used | 
+| --- | --- | --- | 
+| ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&count_private=true&include_all_commits=true) | ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact) |
 
 ### 💼 Contributions
 
@@ -52,8 +52,9 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 - 🔄 Coroutines
 
 ### 📝 Latest Blog Post
-- [Why I never returned to Windows after using Linux?](https://dev.to/niranjannlc/why-i-never-returned-back-to-windows-after-using-linux--8hh)
-
+<!-- BLOG-POST-LIST:START -->
+- [Why I never returned back to windows after using linux ?](https://dev.to/niranjannlc/why-i-never-returned-back-to-windows-after-using-linux--8hh)
+<!-- BLOG-POST-LIST:END --> 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjannlc-blue)](https://www.linkedin.com/in/niranjannlc/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40niranjanlc-blue)](https://twitter.com/niranjanlc)
