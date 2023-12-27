@@ -22,7 +22,7 @@
 #### [Kotlin Quiz](https://github.com/NiranjanNlc/Kotilin-Quiz)
 A quiz-taking application focused on Kotlin programming language. This project provides an interactive quiz experience to test and enhance Kotlin programming skills.
 
-#### [Leadership Article Reader](https://github.com/NiranjanNlc/ArticleReader)
+#### [Leadership Article Reader](https://github.com/NiranjanNlc/ArticleRedaer)
 Utilized web view to read important articles on leadership. The Leadership Article Reader project uses a web view to allow users to read and explore insightful articles on leadership.
 
 ### 🛠 Skills
