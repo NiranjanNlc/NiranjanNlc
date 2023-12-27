@@ -19,7 +19,7 @@
 
 ### 🚀 Featured Projects
 
-#### [Kotlin Quiz](https://github.com/NiranjanNlc/Kotlin-Quiz)
+#### [Kotlin Quiz](https://github.com/NiranjanNlc/Kotilin-Quiz)
 A quiz-taking application focused on Kotlin programming language. This project provides an interactive quiz experience to test and enhance Kotlin programming skills.
 
 #### [Leadership Article Reader](https://github.com/NiranjanNlc/ArticleReader)
