@@ -10,6 +10,7 @@
 #### [Mifos Mobile](https://github.com/openMF/mifos-mobile/pulls?q=is%3Apr+author%3Aniranjannlc+is%3Aclosed) 
 📱 Fixed the position of the title on the user profile screen.  
 🛠 Modified the response handling for HTTP exceptions.
+🔄 Transfered the about us section into MVVM framework 
 
 #### [ODK_X Service](https://github.com/odk-x/services/pulls?q=is%3Apr+author%3Aniranjannlc+is%3Aclosed+) 
 🚀 Improved test coverage for enhanced code reliability.
