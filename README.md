@@ -11,6 +11,7 @@
 📱 Fixed the position of the title on the user profile screen.  
 🛠 Modified the response handling for HTTP exceptions.   
 🔄 Transfered the about us section into MVVM framework 
+🔧 Fixed the bug of profile photo not visible after changing theme 
 
 #### [ODK_X Service](https://github.com/odk-x/services/pulls?q=is%3Apr+author%3Aniranjannlc+is%3Aclosed+) 
 🚀 Improved test coverage for enhanced code reliability.
