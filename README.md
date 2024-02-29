@@ -13,6 +13,9 @@
 🔄 Transfered the about us section into MVVM framework           
 🔧 Fixed the bug of profile photo not visible after changing theme 
 
+#### [Mifos Mobile wallet](https://github.com/openMF/mobile-wallet/pulls?q=is%3Apr+author%3Aniranjannlc+is%3Aclosed+) 
+📱  Migrated core module model from java to Kotilin data class 
+
 #### [ODK_X Service](https://github.com/odk-x/services/pulls?q=is%3Apr+author%3Aniranjannlc+is%3Aclosed+) 
 🚀 Improved test coverage for enhanced code reliability.
 
