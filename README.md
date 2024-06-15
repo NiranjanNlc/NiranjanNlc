@@ -11,7 +11,7 @@
 📱 Fixed the position of the title on the user profile screen.  
 🛠 Modified the response handling for HTTP exceptions.   
 🔄 Transfered the about us section into MVVM framework           
-🔧 Fixed the bug of profile photo not visible after changing theme 
+🔧 Fixed the bug of profile photo not visible after changing theme                                                                                             
 🔄 Transfered the  set up UPI section from xml to jetpack compose 
 
 #### [Mifos Mobile wallet](https://github.com/openMF/mobile-wallet/pulls?q=is%3Apr+author%3Aniranjannlc+is%3Aclosed+) 
