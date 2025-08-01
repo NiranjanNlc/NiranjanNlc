@@ -9,7 +9,6 @@ jobs:
     permissions:
       contents: write
       # Minimal permissions for metrics generation
-      metadata: read
       actions: read
     steps:
       - uses: lowlighter/metrics@latest
