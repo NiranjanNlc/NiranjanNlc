@@ -3,7 +3,15 @@
 
 | 📊 GitHub Activity | 📊 GitHub Stats | 📊 Languages Used | 
 | --- | --- | --- | 
-| ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&count_private=true&include_all_commits=true) | ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs?username=niranjannlc&show_icons=true&locale=en&layout=compact) |
+| ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=niranjannlc) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=niranjannlc&show_icons=true&count_private=true&include_all_commits=true) | ![Languages Used](./metrics.plugin.languages.svg) |
+
+<!-- Alternative language stats with private repos -->
+<details>
+<summary>📊 Detailed Metrics (Including Private Repos)</summary>
+
+![Metrics](./github-metrics.svg)
+
+</details>
 
 ### 💼 Contributions
 
@@ -65,6 +73,8 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjannlc-blue)](https://www.linkedin.com/in/niranjannlc/)
 [![Twitter](https://img.shields.io/badge/Twitter-%40niranjanlc-blue)](https://twitter.com/niranjanlc)
 [![Dev.to](https://img.shields.io/badge/Dev.to-niranjannlc-lightgrey)](https://dev.to/niranjannlc)
+
+
 
 ### 📬 Contact
 Feel free to reach out via [email](mailto:niranjannlc@keemail.com).

@@ -1,19 +1,22 @@
-name: Metrics
+name: Language Statistics
 on:
-  schedule: [{cron: "0 */6 * * *"}] # Every 6 hours
+  schedule:
+    - cron: "0 */12 * * *" # Every 12 hours
   workflow_dispatch:
+
 jobs:
-  github-metrics:
+  languages:
     runs-on: ubuntu-latest
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Languages
+        uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: niranjannlc
-          template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
           plugin_languages_categories: markup, programming
@@ -24,9 +27,4 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_activity: yes
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          plugin_activity_limit: 5
-          plugin_activity_load: 300
-          plugin_activity_visibility: all
+          config_timezone: Asia/Kathmandu
