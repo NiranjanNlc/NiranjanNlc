@@ -74,63 +74,7 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 [![Twitter](https://img.shields.io/badge/Twitter-%40niranjanlc-blue)](https://twitter.com/niranjanlc)
 [![Dev.to](https://img.shields.io/badge/Dev.to-niranjannlc-lightgrey)](https://dev.to/niranjannlc)
 
----
 
-## 🔧 Private Repository Language Stats Setup
-
-If you're not seeing language statistics from private repositories, here are the steps to enable them:
-
-### Method 1: Deploy Your Own Vercel Instance
-
-1. **Fork the repository**: Fork [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. **Deploy to Vercel**: 
-   - Go to [Vercel](https://vercel.com/) and import your forked repository
-   - Add your GitHub Personal Access Token as environment variable `PAT_1`
-3. **Create PAT**:
-   - Go to GitHub Settings → Developer settings → Personal access tokens → Tokens (classic)
-   - Generate new token with these scopes: `repo`, `user`, `read:user`
-4. **Update URLs**: Replace `github-readme-stats.vercel.app` with your Vercel deployment URL
-
-### Method 2: Use GitHub Actions (Recommended)
-
-Create a workflow that generates language stats and commits them to your repo:
-
-```yaml
-# .github/workflows/update-stats.yml
-name: Update GitHub Stats
-on:
-  schedule:
-    - cron: '0 */6 * * *' # Every 6 hours
-  workflow_dispatch:
-jobs:
-  update-stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: Generate Language Stats
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: niranjannlc
-          template: classic
-          base: languages
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
-          plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-```
-
-### Current Setup
-- ✅ Public repositories: Analyzed
-- ⚠️ Private repositories: Requires PAT setup for full access
-
----
 
 ### 📬 Contact
 Feel free to reach out via [email](mailto:niranjannlc@keemail.com).
