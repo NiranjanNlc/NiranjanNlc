@@ -67,6 +67,7 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 
 ### 📝 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Kiro helped me to help people to escape tutorial hell](https://dev.to/niranjannlc/kiro-helped-me-to-help-people-to-escape-tutorial-hell-4c6f)
 - [Why I never returned back to windows after using linux ?](https://dev.to/niranjannlc/why-i-never-returned-back-to-windows-after-using-linux--8hh)
 <!-- BLOG-POST-LIST:END --> 
 ### 🌐 Connect with Me
