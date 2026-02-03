@@ -67,10 +67,10 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 
 ### 📝 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Coffee, Code, and Junie: My Journey to 10x Productivity with JetBrains AI](https://dev.to/niranjannlc/coffee-code-and-junie-my-journey-to-10x-productivity-with-jetbrains-ai-27m4)
 - [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
 - [नियम नियति &lpar;Niyam Niyati&rpar; - Youth Bill Engagement Platform](https://dev.to/niranjannlc/using-kiro-in-order-to-transforms-abstract-legal-documents-into-relatable-human-story-26go)
 - [Kiro helped me to help people to escape tutorial hell](https://dev.to/niranjannlc/kiro-helped-me-to-help-people-to-escape-tutorial-hell-4c6f)
-- [Why I never returned back to windows after using linux ?](https://dev.to/niranjannlc/why-i-never-returned-back-to-windows-after-using-linux--8hh)
 <!-- BLOG-POST-LIST:END --> 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjannlc-blue)](https://www.linkedin.com/in/niranjannlc/)
