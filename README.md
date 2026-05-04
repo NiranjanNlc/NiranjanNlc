@@ -67,10 +67,10 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 
 ### 📝 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [NO no Account is not just a database , whose history is traced and logged .](https://dev.to/niranjannlc/no-no-account-is-not-just-a-database-whose-history-is-traced-and-logged--2092)
 - [First experince with programming in web3](https://dev.to/niranjannlc/first-experince-with-programming-in-web3-5bkk)
 - [Learning of W1 of #100DaysOfSolana](https://dev.to/niranjannlc/learning-of-w1-of-100daysofsolana-39fc)
 - [Coffee, Code, and Junie: My Journey to 10x Productivity with JetBrains AI](https://dev.to/niranjannlc/coffee-code-and-junie-my-journey-to-10x-productivity-with-jetbrains-ai-27m4)
-- [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
 <!-- BLOG-POST-LIST:END --> 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjannlc-blue)](https://www.linkedin.com/in/niranjannlc/)
