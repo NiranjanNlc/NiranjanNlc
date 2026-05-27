@@ -67,10 +67,10 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 
 ### 📝 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [Solana Account Model — City Analogy](https://dev.to/niranjannlc/solana-account-model-city-analogy-1lhp)
+- [Solana Transactions: not just a “request/response” ,but “atomic on-chain state changes”](https://dev.to/niranjannlc/solana-transactions-not-just-a-requestresponse-but-atomic-on-chain-state-changes-38pg)
 - [Policy Storyteller: Turning Nepali Bills into Human Stories with Gemma 4](https://dev.to/niranjannlc/policy-storyteller-turning-nepali-bills-into-human-stories-with-gemma-4-5526)
 - [NO no Account is not just a database , whose history is traced and logged .](https://dev.to/niranjannlc/no-no-account-is-not-just-a-database-whose-history-is-traced-and-logged--2092)
-- [First experince with programming in web3](https://dev.to/niranjannlc/first-experince-with-programming-in-web3-5bkk)
-- [Learning of W1 of #100DaysOfSolana](https://dev.to/niranjannlc/learning-of-w1-of-100daysofsolana-39fc)
 <!-- BLOG-POST-LIST:END --> 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjannlc-blue)](https://www.linkedin.com/in/niranjannlc/)
