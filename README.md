@@ -67,10 +67,10 @@ Utilized web view to read important articles on leadership. The Leadership Artic
 
 ### 📝 Latest Blog Post
 <!-- BLOG-POST-LIST:START -->
+- [From Android Engineer to AI/ML – My Journey and First Realization](https://dev.to/niranjannlc/from-android-engineer-to-aiml-my-journey-and-first-realization-2de)
 - [I Built a Nepal Government Complaint Transparency Bot with Hermes Agent &lpar;From Zero, in One Hour &rpar;](https://dev.to/niranjannlc/i-built-a-nepal-government-complaint-transparency-bot-with-hermes-agent-from-zero-in-one-hour--4gi0)
 - [Building Multi‑Extension Tokens on Solana and making it compliance goated](https://dev.to/niranjannlc/building-multi-extension-tokens-on-solana-and-making-it-compliance-goated-49pg)
 - [Intrest bearing token in solana](https://dev.to/niranjannlc/intrest-bearing-token-in-solana-20p0)
-- [Understanding tokenomics of Solana](https://dev.to/niranjannlc/understanding-tokenomics-of-solana-2p5o)
 <!-- BLOG-POST-LIST:END --> 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-niranjannlc-blue)](https://www.linkedin.com/in/niranjannlc/)
